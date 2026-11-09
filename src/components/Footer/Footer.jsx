@@ -23,6 +23,7 @@ const Footer = () => (
         <p className="footer-heading">Get in touch</p>
         <a href="https://wa.me/971523048009" target="_blank" rel="noreferrer"><FaWhatsapp /> +971 52 304 8009</a>
         <a href="tel:+971529359279"><FaPhoneAlt /> +971 52 935 9279</a>
+        <a href="tel:+971501020334"><FaPhoneAlt /> +971 50 102 0334</a>
         <a href="mailto:easycarsimport@gmail.com"><FaEnvelope /> easycarsimport@gmail.com</a>
         <a href="https://maps.app.goo.gl/8ZFAJySn9cEyVNMG7?g_st=iwb" target="_blank" rel="noreferrer"><FaMapMarkerAlt /> Sharjah, UAE</a>
       </div>
